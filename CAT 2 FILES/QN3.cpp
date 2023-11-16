@@ -34,7 +34,12 @@ int main()
             break;
         }
         case 2 : {
-            
+            // Go to Services Page 
+            cout << "I can write source code for you and charge at a fair price"<< endl;
+            break;
+        }
+        case 3 :{
+            // Go to Full Profile Page 
         }
     }
  }
